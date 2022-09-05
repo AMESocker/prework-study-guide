@@ -15,8 +15,8 @@ h2 {
 }
 img {
     display: block;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -33,6 +33,4 @@ p {
     margin: 40px auto;
     border: 5px solid rgb(65, 65, 65);
     box-shadow: 5px 5px #5c5c5c;
-}
-
 }
