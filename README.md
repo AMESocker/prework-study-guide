@@ -1,7 +1,7 @@
 # prework-study-guide
 
 
-## Description A study guide for course pre-work.
+## Description
 
 This is a page developed to consolidate information gathered from UC Berkeley Bootcamp Prework Sessions. In addition, the page implamented new tools to build a functional web application using fundimental HTML, CSS, and JavaScript code.
 
